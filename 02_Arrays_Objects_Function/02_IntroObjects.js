@@ -85,7 +85,14 @@ person['Crush']='Tiger Shroff'
  // delete person.age;
 
 
+// in keyword- to check whether the property is present in object or not. 
+//-----------------------------------------------------
+
 // console.log("firstName" in person); // true
+
+
+// hasOwnProperty-> is a method used to check whether an object has a specific property as its own (not inherited) property.
+//-----------------------------------------------------
 
 // console.log(person.hasOwnProperty("lastName")); // true
 
