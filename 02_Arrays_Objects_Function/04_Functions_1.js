@@ -1,4 +1,12 @@
-/* Function Declaration */
+// Functions-> It is a block of code that performs a specific task and it can be used again-again to perform task. 
+/*
+Functions in JavaScript are first-class objects 
+meaning they can be assigned to variables, passed as arguments, and returned from other functions. 
+*/ 
+
+
+
+/* Function Defination */
 //------------------------------------------------------
 
 function sumTwoNumbers(a, b) {
