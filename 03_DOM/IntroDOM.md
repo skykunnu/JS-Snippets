@@ -1,4 +1,4 @@
-DOM 
+DOM-> Document Object Model
 
 1. What is DOM
 
@@ -60,4 +60,3 @@ DOM
    h. Different types of Event 
 
 
-   
