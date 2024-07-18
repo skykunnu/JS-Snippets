@@ -1,5 +1,7 @@
 // Traversing Parent, Sibling & Child elements using JS
 
+// parentNode,childNode,firstChild,lastChild, nextSibling & previousSibling doesn't support style property or any other property for that matter. 
+
 
 // parentNode vs parentElement
 
@@ -51,3 +53,4 @@
 
 // let previousSibling=document.getElementById('box2').previousElementSibling
 // console.log(previousSibling)
+
