@@ -33,4 +33,14 @@
 
 // const imageInsideUl=ul.querySelector('.css-image') // we can use any html element with query selector,all,className,tagName but not available with ID. 
 
+//---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+// Inner HTML, InnerText & TextContent
+
+// InnerHTML-> It reads both HTML markup and text content. (not advisable to use due to performance issue and also XSS attacks)
+
+// InnerText-> It reads only text content and account for css style.
+
+// TextContent-> It reads only text content but don't account for css style.  
+
 
