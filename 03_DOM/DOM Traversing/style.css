@@ -17,15 +17,39 @@ h2{
 }
 h3{
     background-color: burlywood;
+    margin-top: 10px;
 }
 #inner{
     background-color: burlywood;
     border: 2px solid black;
+    margin: auto;
+    width: 450px;
+    height: 150px;
     padding:0px 10px 10px 10px;
     display: flex;
     justify-content: space-between;
 }
-.box{
+#box1{
+    border: 1px solid black;
+    margin-top: 50px;
+    padding:30px;
+}
+#box2{
+    border: 1px solid black;
+    margin-top: 50px;
+    padding:30px;
+}
+#box3{
+    border: 1px solid black;
+    margin-top: 50px;
+    padding:30px;
+}
+#box4{
+    border: 1px solid black;
+    margin-top: 50px;
+    padding:30px;
+}
+#box5{
     border: 1px solid black;
     margin-top: 50px;
     padding:30px;
