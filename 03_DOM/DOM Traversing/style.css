@@ -1,0 +1,32 @@
+*{
+    background-color: beige;
+}
+
+#outer{
+border: 2px solid black;
+margin: auto;
+width: 500px;
+height: 250px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+background-color: blanchedalmond;
+}
+h2{
+    background-color: blanchedalmond;
+}
+h3{
+    background-color: burlywood;
+}
+#inner{
+    background-color: burlywood;
+    border: 2px solid black;
+    padding:0px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    border: 1px solid black;
+    margin-top: 50px;
+    padding:30px;
+}
