@@ -1,6 +1,6 @@
 // Traversing Parent, Sibling & Child elements using JS
 
-// parentNode,childNode,firstChild,lastChild, nextSibling & previousSibling doesn't support style property or any other property for that matter. 
+// parentNode,childNode,firstChild,lastChild, nextSibling & previousSibling don't support style property or any other property for that matter. 
 
 
 // parentNode vs parentElement
