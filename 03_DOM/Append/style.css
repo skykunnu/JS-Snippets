@@ -1,7 +1,5 @@
 .container {
     color: green;
-    display: flex;
-    flex-wrap: wrap;
     gap: 8px;
 }
 
