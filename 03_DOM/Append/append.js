@@ -1,3 +1,4 @@
+// Only siblings and elements other than parent element can be appended. 
 
 const h1=document.querySelector('h1')
 const container=document.querySelector('.container')
@@ -9,6 +10,7 @@ const card=document.querySelector('.card')
 // if we want text content should also appear, then pass truthy value as an arguments to it. 
 
 // container.appendChild(h1.cloneNode(1)) <h1>appendChild & append</h1>
+
 
 
 
