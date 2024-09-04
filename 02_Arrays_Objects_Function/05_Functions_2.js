@@ -17,7 +17,7 @@ function app() {
 // console.log(app())
 
 //------------------------------------------------------------------------------------------------------------------------------
-// Higher Order functions- It is a function that takes one or more functions as an argument and return a function as a result.  
+// Higher Order functions- It is a function that takes one or more functions as an argument and returns a function as a result.  
 
 // function a(b){
 //   console.dir(b)
