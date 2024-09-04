@@ -35,7 +35,7 @@ const myFunction = function () {
 
 //Whenever we define variables with primitive datatypes, We get the copy of the variable in a stack, whatever changes in the original variable will reflect only in the original variable. not in the copied variable.
 
-//Whenever we define variables with Non-primitive(Reference) datatypes, We get the (Reference)Original-value of the variable in Heap, whatever changes in the original variable will reflects in the original as well as copied variable also.
+//Whenever we define variables with Non-primitive(Reference) datatypes, We get the (Reference)Original-value of the variable in Heap, whatever changes made in the original variable will reflect in the original as well as copied variable also.
 
 let mySchoolname = "Shikhar";
 let anotherName = mySchoolname;
